@@ -1,6 +1,7 @@
-tensorflow==2.14.0
-numpy
+streamlit
 pandas
-matplotlib
-Pillow
+numpy
+scikit-learn
+joblib
 opencv-python
+Pillow
